@@ -9,6 +9,7 @@ public class Random {
 		String s = "aaaaa____----";
 		System.out.println("Using an Array");
 		countLetters(s);
+		System.out.println(); //Used for spacing
 		System.out.println("Using Maps");
 		mapLetters(s);
 
@@ -35,7 +36,6 @@ public class Random {
 		for(int j = 0; j< counts.length; j++)
 			if(counts[j] != 0)
 				System.out.println("Count for letter " + (char)(j) + ": " + counts[j]);
-		System.out.println();
 	}
 
 }
