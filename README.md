@@ -1,8 +1,7 @@
 # WorkExamples
-This repository tells you a little about me, shows some programming exercises that I have done inside and out of classes, and highlights some old projects that I have done.
+This repository tells you a little about me, and shows some of my skills as a programmer. Currently I am working on examples from a website named Project Euler for practice. www.projecteuler.net consists of both mathematical and programming problems. WorkExamples will also show random exercises that I have done for fun or that I have found interesting while interviewing.  
 
 # About Me
 I recently graduated from Kennesaw State University. I am currently in the process of moving to Columbus, OH in order to be with my fiance(Ashley) and my kids (Mia and Parker). I am currently looking for a position from Entry-Level to Mid-Level Java/J2EE Developer to continue my growth and learning. Unfortunately, I currently only have classroom and at home experience, but no professional programming experience. I am constantly learning and trying to better myself as a programmer. Since graduation, I have picked up several books to continue my path of learning on my own. One of these books is Professional Java for Web Applications. Professional Java goes over JSP's, Servlets, and much more, but uses J2EE and best practices used in the work force like MVC.
 
-# My Current and Past Work Experience
-Currently, I work at Domino's Pizza in Marietta, GA, but I am also trying to transfer to a store in Columbus. Other places that I have worked, to name a few, include: Teleperformance USA as Technical Support CallCenter Associate, Bed Bath and Beyond as a Customer Service Supervisor and Cashier, and Wal-mart as a cashier, which totals nearly 15 years of customer service experience in different roles.
+#Thanks for viewing....
