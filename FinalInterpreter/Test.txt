@@ -1,0 +1,3 @@
+10 LET X = 1
+20 PRINT X
+30 STOP
